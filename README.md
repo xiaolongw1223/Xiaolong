@@ -22,7 +22,7 @@ Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, 
 - 👯 I’m currently collaboratively working on Antarctic geophysical imaging
 - 🌱 I’m currently learning electromagnetic geophysics and machine/deep learning
 - 💬 Ask me about joint inversion and inverse theory
-- 🤔 I’m looking for help with 3D Bayesian inversion, especially unstructure mesh
+- 🤔 I’m looking for help with 3D Bayesian inversion, especially using unstructure mesh
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Xiaolong-Wei-3), [Google Scholar](https://scholar.google.com/citations?user=TyBgOgIAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/xiaolong-wei-3a8495199/)
 - 📝 [Resume]()
 
