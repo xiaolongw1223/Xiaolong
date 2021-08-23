@@ -27,13 +27,12 @@ Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, 
 - 📝 [Resume]()
 
 **Languages and Tools:** 
-
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Matlab](https://img.shields.io/badge/-Matlab-black?logo=c&style=social)&nbsp;&nbsp;
+![Matlab](https://img.shields.io/badge/-Matlab-black?logo=Matlab&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 
-![Xiaolong Wei's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+![Xiaolong Wei's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaolongw1223&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaolongw1223&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xiaolongw1223.xiaolongw1223)
