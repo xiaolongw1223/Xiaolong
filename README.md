@@ -29,11 +29,11 @@ Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, 
 **Languages and Tools:** 
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Matlab](https://img.shields.io/badge/-MATLAB-black?logo=matlab&style=social)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex)
 
 
 ![Xiaolong Wei's Github Stats](https://github-readme-stats.vercel.app/api?username=xiaolongw1223&count_private=true&show_icons=true&include_all_commits=true)
