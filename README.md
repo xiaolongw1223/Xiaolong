@@ -1,4 +1,4 @@
-### Hi there 👋, I am Xiaolong Wei 😁
+### Hi there 👋, I'm Xiaolong Wei 😁
 <!--
 **xiaolongw1223/xiaolongw1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, in [Department of Earth and Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at [University of Houston](https://www.uh.edu/). My research interests resolve around the theme of inverse modeling of various subsurface systems.
+Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, in [Department of Earth and Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at [University of Houston](https://www.uh.edu/). My research interests resolve around the theme of inverse modeling for various subsurface systems.
 
 
 - 🔭 I'm currently working on joint inversion and uncertainty analysis using potential field and petrophysical data, primarily applied to critical mineral exploration
