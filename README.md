@@ -24,7 +24,7 @@ Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, 
 - 💬 Ask me about joint inversion and inverse theory
 - 🤔 I’m looking for help with 3D Bayesian inversion, especially using unstructure mesh
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Xiaolong-Wei-3), [Google Scholar](https://scholar.google.com/citations?user=TyBgOgIAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/xiaolong-wei-3a8495199/)
-- 📝 [Resume]()
+- 📝 [Resume](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf)
 
 **Languages and Tools:** 
 
