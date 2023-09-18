@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xiaolong Wei and I am a postdoctoral research fellow in the department of [Earth and Planetary Sciences](https://epsci.stanford.edu/) at [Stanford University](https://www.stanford.edu/). I am a member of the [Stanford Mineral-X](https://mineralx.stanford.edu/).
+Hello, my name is Xiaolong Wei. I am a postdoctoral research fellow in the department of [Earth and Planetary Sciences](https://epsci.stanford.edu/) at [Stanford University](https://www.stanford.edu/) and I am a member of the [Stanford Mineral-X](https://mineralx.stanford.edu/).
 
 - 🔭 I'm currently working on stochastic subsurface modeling for critical mineral explorations
 - 👯 I’m currently collaboratively working on Antarctica geophysics
