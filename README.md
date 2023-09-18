@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xiaolong Wei and I am pursuing my Ph.D. degree in geophysics, in [Department of Earth and Atmospheric Sciences](https://uh.edu/nsm/earth-atmospheric/) at [University of Houston](https://www.uh.edu/). My research interests resolve around the theme of inverse modeling for various subsurface systems.
+Hello, my name is Xiaolong Wei and I am a postdoctoral research fellow in the department of [Earth and Planetary Sciences](https://epsci.stanford.edu/) at [Stanford University](https://www.stanford.edu/). I am a member of the [Stanford Mineral-X](https://mineralx.stanford.edu/).
 
-
-- 🔭 I'm currently working on joint inversion and uncertainty analysis using potential field and petrophysical data, primarily applied to critical mineral exploration
-- 👯 I’m currently collaboratively working on Antarctic geophysical imaging
+- 🔭 I'm currently working on stochastic subsurface modeling for critical mineral explorations
+- 👯 I’m currently collaboratively working on Antarctica geophysics
 - 🌱 I’m currently learning electromagnetic geophysics and machine/deep learning
 - 💬 Ask me about joint inversion and inverse theory
-- 🤔 I’m looking for help with 3D Bayesian inversion, especially using unstructure mesh
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Xiaolong-Wei-3), [Google Scholar](https://scholar.google.com/citations?user=TyBgOgIAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/xiaolong-wei-3a8495199/)
-- 📝 [Resume](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_english.pdf)
+- 📝 [Resume](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_GP.pdf)
 
 **Languages and Tools:** 
 
