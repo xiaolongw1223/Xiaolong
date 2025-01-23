@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xiaolong Wei. I am a postdoctoral research fellow in the department of [Earth, Ocean and Atmospheric Sciences](https://www.eoas.ubc.ca/) at [UBC]([https://www.stanford.edu/](https://www.ubc.ca/)) [MDRU](https://www.mdru.ubc.ca/).
+Hello, my name is Xiaolong Wei. I am a postdoctoral research fellow in the department of [Earth, Ocean and Atmospheric Sciences](https://www.eoas.ubc.ca/) at [UBC](https://www.ubc.ca/)[MDRU](https://www.mdru.ubc.ca/).
 
 - 🔭 I'm currently working on orebody knowledge for critical mineral explorations
 - 💬 Ask me about joint inversion and inverse theory
