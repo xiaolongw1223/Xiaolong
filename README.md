@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Xiaolong Wei. I am a postdoctoral research fellow in the department of [Earth and Planetary Sciences](https://epsci.stanford.edu/) at [Stanford University](https://www.stanford.edu/) and I am a member of the [Stanford Mineral-X](https://mineralx.stanford.edu/).
+Hello, my name is Xiaolong Wei. I am a postdoctoral research fellow in the department of [Earth, Ocean and Atmospheric Sciences](https://www.eoas.ubc.ca/) at [UBC]([https://www.stanford.edu/](https://www.ubc.ca/)) [MDRU](https://www.mdru.ubc.ca/).
 
-- 🔭 I'm currently working on stochastic subsurface modeling for critical mineral explorations
-- 👯 I’m currently collaboratively working on Antarctica geophysics
-- 🌱 I’m currently learning electromagnetic geophysics and machine/deep learning
+- 🔭 I'm currently working on orebody knowledge for critical mineral explorations
 - 💬 Ask me about joint inversion and inverse theory
 - 📫 How to reach me: [ResearchGate](https://www.researchgate.net/profile/Xiaolong-Wei-3), [Google Scholar](https://scholar.google.com/citations?user=TyBgOgIAAAAJ&hl=en) and [LinkedIn](https://www.linkedin.com/in/xiaolong-wei-3a8495199/)
 - 📝 [Resume](https://github.com/xiaolongw1223/cv-plus/blob/main/xiaolong_wei_cv_GP.pdf)
